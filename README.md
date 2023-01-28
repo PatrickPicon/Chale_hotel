@@ -7,7 +7,7 @@ A pousada perfeita para passar um final de semana ou até suas férias com aquel
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Chalé Hotel" src=".github/preview.jpg" width="100%">
 </p>
 
 ## ✔ Tecnologias
